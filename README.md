@@ -50,7 +50,7 @@ The application manages employee lifecycle requests, manager approvals, status u
 
 ## Demo Video
 
-[Watch the Project Demo](PASTE-YOUR-GOOGLE-DRIVE-LINK-HERE)
+[Watch the Project Demo](https://drive.google.com/file/d/1EUKk-PCnRqCHPiMmYS2czJ8_a0bRNhfy/view?usp=drive_link)
 
 ## Project File
 
