@@ -1,5 +1,4 @@
 # Automated-Employee-Onboarding-Offboarding
-# Employee Lifecycle Management - ServiceNow
 
 ## Project Overview
 
